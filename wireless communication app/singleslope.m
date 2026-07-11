@@ -1,3 +1,0 @@
-function y =singleslope()
-
-end
